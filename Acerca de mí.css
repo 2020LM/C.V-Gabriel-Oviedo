@@ -25,5 +25,17 @@ body{
        
     
     }
+
+    section{
+
+        text-align: justify;
+        line-height: 25px;
+        margin: 0px 20px 0px 20px;
+        border-bottom:10px solid #000;
+        height: 400px;
+        
+          }
+
+         
     
     
