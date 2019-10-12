@@ -38,7 +38,7 @@ $(document).ready(function(){
  
 	$('.b2').click(function(){
 		$('body, html').animate({
-			scrollTop: '1850px'
+			scrollTop: '1800px'
 		}, 300);
 	});
  
